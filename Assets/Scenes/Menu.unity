@@ -253,7 +253,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 692d1a2334c777e4783cb99b408e4c1c, type: 3}
+  m_Texture: {fileID: 2800000, guid: c5ad1dd6b9f240f4e975aae8fa99e5e0, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -3606,7 +3606,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
